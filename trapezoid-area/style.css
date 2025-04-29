@@ -1,0 +1,28 @@
+html
+{
+    background-color: rgb(89, 153, 153);
+}
+
+body{
+    text-align: center;
+    width: 400px;
+    
+    margin: auto;
+    margin-top: 10px;
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+}
+
+
+img {
+    vertical-align: middle;
+   width: 40px;
+}
+
+ul{
+    text-align: left;
+}
+#left{
+    text-align: left;
+    padding-left: 30px;
+}
